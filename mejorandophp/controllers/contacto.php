@@ -1,0 +1,4 @@
+<?php
+
+
+view("contacto");
